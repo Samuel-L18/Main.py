@@ -1,0 +1,7 @@
+(Variables) = 
+(Meta_de_agua): Funciona como indicar donde tiene que llegar el consumo final por Juan
+(Volumen_total): Tiene mucha importacia, ya que es la variable a la que se le ingresa el consumo en ml por Juan
+(Porciones): Es la salida de información, en este caso el volumen entre 100 ml y 400 ml
+(Ciclo de control While) = Primero se utilizo el int para introducir una información y dar paso a una condición y luego se ejecuta con la variable
+Condicional = Primero se hace uso de una estructura de de control como lo es el if o else o también elif que lo utilice en este caso, también se puede hacer uso de operadores lógicos.
+Hice identificación de la meta de agua con el conteo del volumen que me daba un 'volumen total'
